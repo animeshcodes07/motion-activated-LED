@@ -1,4 +1,4 @@
-# motion-activated-LED
+# motion-activated-BULB
 # AN ENERGY-SAVING SMART LIGHTING SOLUTION
 In many homes and offices, lights are often left on unnecessarily, leading to energy wastage. This project automates lighting using a PIR motion sensor and Arduino. The system turns the LED ON when motion is detected and OFF after a delay, making it ideal for smart homes, security systems, and energy conservation
 # Motion-Activated LED with PIR Sensor  
